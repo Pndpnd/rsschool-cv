@@ -1,1 +1,1 @@
-https://pndpnd.github.io/rsschool-cv/cv
+https://pndpnd.github.io/rsschool-cv/
