@@ -1,6 +1,5 @@
 # Nikita Apranich
 ## Contact information:
-
 * Discord: pndpnd#6715
 * Telegram: npndpnd
 
@@ -16,12 +15,20 @@ Still not enough, just want to become better :)
 ****
 
 ## Code examples:
-
+```
+function multiply (a, b) {
+return a * b
+}
+```
 
 ****
 ## Education:
+* Belarusian State University of Informatics and Radioelectronics
+* RS School (in progress...)
 
 ****
 ## Languages: 
+* Russian (native)
+* English (intermediate)
 
 ****
